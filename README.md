@@ -1,2 +1,2 @@
 # Waste-Segregation-System 
- next me 
+ day 2
